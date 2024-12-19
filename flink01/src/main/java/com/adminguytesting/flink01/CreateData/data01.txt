@@ -1,0 +1,20 @@
+Fichier /tmp/input sur le taskmanager
+-------------------------------------
+Apple Grass Rosemary
+Apple
+Banana
+Orange
+Apple
+Apple
+Apple
+Apple
+Apple
+Orange
+Banana
+Apple
+Banana
+Apple Tree Minth
+Apple
+Apple
+Apple
+-------------------------------------
